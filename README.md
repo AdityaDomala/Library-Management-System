@@ -28,7 +28,9 @@ Browse the PHPMyAdmin in a browser. i.e. http://localhost/phpmyadmin
 Create a new database naming library.
 Import the provided SQL file. The file is known as library.sql located inside the Database folder.
 Browse the Simple Library Management System in a browser. i.e. 
+
 for the Student side http://localhost/lms/Source%20Code/
+
 for the Admin side and http://localhost/lms/Source%20Code/admin 
 
 Default Admin Access:
